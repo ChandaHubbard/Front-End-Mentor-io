@@ -1,5 +1,10 @@
 # Frontend Mentor - Profile card component
 
+## Solution 
+
+https://www.youtube.com/watch?v=IPH6TNUdprI&ab_channel=abhikb
+# 
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -64,3 +69,4 @@ Feedback is always welcome, so if you have any to give on this challenge please 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
